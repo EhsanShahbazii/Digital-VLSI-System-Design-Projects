@@ -6,7 +6,7 @@
 2. Counter 8bit
 3. Encoder 8 to 3
 4. Encoder Priority 8 to 3
-5. Multi-plexer 4 to 1
+5. Multiplex 4 to 1
 6. RAM 1 port
 7. Seven-Segment Decoder
 8. Shift-Register 8bit
