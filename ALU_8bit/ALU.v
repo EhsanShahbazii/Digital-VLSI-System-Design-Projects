@@ -1,9 +1,3 @@
-/********************************************************************************
-*	Author : Ehsan Shahbazi	
-*	Description : gatelevel	ALU with logic and arithmetic unit
-********************************************************************************/
-
-
 module ALU(Z, Cout, D, A, B, Cin, S);
 	
 	output Z, Cout;
