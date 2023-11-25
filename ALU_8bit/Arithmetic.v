@@ -1,8 +1,3 @@
-/********************************************************************************
-*	Author : Ehsan Shahbazi	
-*	Description : gatelevel	ALU with logic and arithmetic unit
-********************************************************************************/
-
 module ArithmeticUnit(z, cout, D, cin, A, B, S);
 	
 	output z, cout;
