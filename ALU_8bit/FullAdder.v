@@ -1,8 +1,3 @@
-/********************************************************************************
-*	Author : Ehsan Shahbazi	
-*	Description : gatelevel	ALU with logic and arithmetic unit
-********************************************************************************/
-
 module FullAdder(s, cout, a, b, cin);
 	
 	output s, cout;
