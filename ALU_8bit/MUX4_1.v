@@ -1,7 +1,3 @@
-/********************************************************************************
-*	Author : Ehsan Shahbazi	
-*	Description : gatelevel	ALU with logic and arithmetic unit
-********************************************************************************/
 module MUX4_1(out, D0, D1, D2, D3, S);
 
 	output out;
