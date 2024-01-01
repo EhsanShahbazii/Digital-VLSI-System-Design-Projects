@@ -1,4 +1,4 @@
-# Digital-VLSI-System-Design
+# Digital-VLSI-System-Design-Projects
 سورس کد پروژه های درس طراحی سیستم های دیجیتال برنامه پذیر دانشگاه تبریز مقطع کارشناسی رشته مهندسی کامپیوتر
 ### Concepts
 
