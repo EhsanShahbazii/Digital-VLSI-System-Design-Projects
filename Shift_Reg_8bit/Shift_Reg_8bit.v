@@ -40,7 +40,7 @@ module Shift_Reg_8bit (out, serial_out, data_in, serial_in, op, clk);
 				    begin	
 						serial_out = data_in[0];
 						if(data_in[7] == 1)
-							out = {1 , data_in[7:1]};
+							out = {1'b1 , data_in[7:1]};
 						else 
 							out = data_in >> 1;
 					end		
@@ -51,12 +51,12 @@ module Shift_Reg_8bit (out, serial_out, data_in, serial_in, op, clk);
 					end
 				3'b110 : 
 				    begin
-						serial_out = 0'bx;
+						serial_out = 1'bx;
 						out = data_in;
 					end
 				3'b111 : 
 				    begin
-						serial_out = 0'bx;
+						serial_out = 1'bx;
 						out = 0;
 					end
 			endcase
