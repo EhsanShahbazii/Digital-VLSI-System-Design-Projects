@@ -1,8 +1,3 @@
-/********************************************************************************
-*	Author : Ehsan Shahbazi	
-*	Description : gatelevel	ALU with logic and arithmetic unit
-********************************************************************************/
-
 module LogicUnit(D, A, B, S);
 	output [7:0] D;
 	input [7:0] A;
