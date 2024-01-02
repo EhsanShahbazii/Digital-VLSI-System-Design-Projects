@@ -10,3 +10,4 @@
 6. RAM 1 port
 7. Seven-Segment Decoder
 8. Shift-Register 8bit
+9. Multiplier 8bit
