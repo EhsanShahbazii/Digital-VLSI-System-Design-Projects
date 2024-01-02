@@ -1,8 +1,3 @@
-/********************************************************************************
-*	Author : Ehsan Shahbazi	
-*	Description : gatelevel	ALU with logic and arithmetic unit
-********************************************************************************/
-
 module tb;
 	wire Z, Cout;
 	wire [7:0] D;
@@ -35,6 +30,8 @@ module tb;
 			#10 Cin = 1'b1; S = 4'b0111;
 			#10 Cin = 1'b0; S = 4'b1011;
 			#10 Cin = 1'b1; S = 4'b1100;
+
+			#180 $finish;
 		end
 
 endmodule
