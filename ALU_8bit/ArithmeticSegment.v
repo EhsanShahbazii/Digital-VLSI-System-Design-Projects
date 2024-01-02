@@ -1,8 +1,3 @@
-/********************************************************************************
-*	Author : Ehsan Shahbazi	
-*	Description : gatelevel	ALU with logic and arithmetic unit
-********************************************************************************/
-
 module ArithmeticSegment(D, Cout, A, B, Cin, S);
 	output D, Cout;
 	input A, B, Cin;
