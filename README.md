@@ -15,3 +15,6 @@
 11. ALU 8bit Dataflow
 12. Decoder 2 to 4
 13. Decoder 2 to 4 Dataflow
+14. Decoder 3 to 8
+15. Multiplex 2 to 1
+16. Multiplex 8bit
