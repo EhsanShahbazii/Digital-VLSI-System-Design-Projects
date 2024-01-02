@@ -11,3 +11,5 @@
 7. Seven-Segment Decoder
 8. Shift-Register 8bit
 9. Multiplier 8bit
+10. ALU 8bit
+11. ALU 8bit Dataflow
